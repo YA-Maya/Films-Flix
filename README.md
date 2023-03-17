@@ -1,22 +1,16 @@
 ## Films-Flix
 
-# My First project 
-One project that I'm particularly proud of is my implementation of the classic game, Rock, Paper, and Scissors. It was a challenging project that required a combination of skills in HTML, CSS, and JavaScript. Despite the difficulties, I was able to complete the project successfully by employing a number of strategies.
+FilmFlix was a Python project that I developed to keep track of the films I've watched in my personal collection. As I continue to watch more movies, I look forward to adding more details and expanding my collection. It's an ongoing project that allows me to indulge my passion for film while honing my programming skills.
 
-To start with, I made use of online resources such as Stack Overflow to help me navigate through some of the more complicated aspects of the project. By searching through various forums and discussions, I was able to find solutions to a number of issues that had stumped me initially.
+## Tech Stack
+- HTML
+- Python
 
-Another technique that proved helpful was breaking down the larger tasks involved in the project into smaller, more manageable steps. This allowed me to focus on one aspect of the project at a time, which made it easier to identify and solve any problems that arose.
-
-In addition to these strategies, I also found that testing my code regularly helped me to catch errors and bugs early on in the development process. By doing so, I was able to avoid more significant problems down the line and ensure that the final product was as polished and functional as possible.
-
-Overall, I'm really proud of the work I put into this project. Not only did it allow me to develop my skills in web development, but it also gave me a sense of satisfaction and accomplishment to see the final result come together. 
 ## Screenshots
-<img width="886" alt="Capture" src="https://user-images.githubusercontent.com/98185508/225722355-116f93cf-abf5-46a4-bfa1-1b7c7e3c6d48.PNG">
+<img width="603" alt="Capture11" src="https://user-images.githubusercontent.com/98185508/225893329-61f12fb6-c385-4c87-a064-85adf9286c78.PNG">
+<img width="600" alt="Capture12" src="https://user-images.githubusercontent.com/98185508/225893320-d81094bf-b6a2-4dc3-b7a0-f1cd43585fda.PNG">
+<img width="596" alt="Capture13" src="https://user-images.githubusercontent.com/98185508/225893326-4797a271-fce4-479d-828f-5823cc3d77f6.PNG">
 
-<img width="837" alt="Capture 1" src="https://user-images.githubusercontent.com/98185508/225723956-e11b8d00-c52f-440a-8b59-db5ae18682c9.PNG">
 
-## Features
-- Pick one of buttons (Rock, Paper and Scissor)
-- The Computer will pick rock, paper and scissor randomly.
-- The score will update. 
-
+## Author
+- [@YA-Maya](https://github.com/YA-Maya)
